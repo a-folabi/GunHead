@@ -10,6 +10,6 @@ Afolabi Ige
 Omar Badat
 Mike Daiy.
 
-Credit to Thomas Mountainborn Blog that was a key factor in passing information to unity
+Heres a link to thomas Hill's github for more detailed description on unity assets
 
-link: http://thomasmountainborn.com/2017/03/05/unity-and-opencv-part-three-passing-detection-data-to-unity/
+link: https://github.com/thomaskAHLE/UnityGame
