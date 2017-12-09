@@ -1,15 +1,19 @@
-# GunHead
+# GunHead (Motion based FPS)
 <name is a work in progress>
-Motion based FPS
 This is the first version of the game.
-It uses Opencv to get motion control that moves the on screen player and passes the information to a unity engine. 
+It uses Opencv Haar cascades to track the users movement. That information is sent to unity to control the on screen player.
 
-Creators: 
-Thomas Hill
-Afolabi Ige
-Omar Badat
-Mike Daiy.
+## Description
+It is an acrade style game and the user plays as a crypt keeper who kills zombies. The object of the game is to kill as many zombies as you can to get the high score.
+  
+## Demo
+You can see a demo of the game on youtube [here](https://youtu.be/POiYXURz7xE)
 
-Heres a link to thomas Hill's github for more detailed description on unity assets
 
-link: https://github.com/thomaskAHLE/UnityGame
+
+## Creators
+- [Thomas Hill](https://github.com/thomaskAHLE/UnityGame) (link to his Github page)
+- Afolabi Ige
+- Omar Badat
+- Mike Daiy.
+
