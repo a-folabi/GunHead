@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Gun.cs">
+    <Files>
+      <File FileName="Assets\scripts\EnemySpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\OpenCVDetection.cs" Line="36" Column="36" />
+      <File FileName="Assets\scripts\PositionAtFaceScreenSpace.cs" Line="23" Column="38" />
+      <File FileName="Assets\scripts\MouseLook.cs" Line="18" Column="3" />
+      <File FileName="Assets\scripts\Player.cs" Line="28" Column="3" />
+      <File FileName="Assets\scripts\GameManager.cs" Line="68" Column="2" />
+      <File FileName="Assets\scripts\Enemy.cs" Line="79" Column="23" />
+      <File FileName="Assets\scripts\Gun.cs" Line="35" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
